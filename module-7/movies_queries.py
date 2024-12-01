@@ -1,6 +1,6 @@
 # Megan Wheeler
 # Assignment 7.2
-# 11 November 2024
+# 30 November 2024
 
 import mysql.connector
 from mysql.connector import errorcode
